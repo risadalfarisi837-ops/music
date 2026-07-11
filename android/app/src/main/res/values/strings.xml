@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Stream Beats</string>
+    <string name="title_activity_main">Stream Beats</string>
+    <string name="package_name">com.musickuzyy.app</string>
+    <string name="custom_url_scheme">com.musickuzyy.app</string>
+    <string name="server_client_id">193378763566-br298ob97b9th8i1liq6gcuil0e6mckm.apps.googleusercontent.com</string>
+</resources>
